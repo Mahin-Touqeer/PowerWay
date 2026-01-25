@@ -1,0 +1,10 @@
+.menuItem {
+  /* background-color: aqua; */
+  padding: 0px 8px;
+  cursor: pointer !important;
+  font-size: 3rem;
+}
+
+.logo {
+  width: 2rem;
+}
